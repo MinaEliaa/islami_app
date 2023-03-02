@@ -14,24 +14,25 @@
         android:theme="@style/Theme.Islamicc_App"
         tools:targetApi="31">
         <activity
+            android:name=".ui.suraDetails.SuraDetailsActivity"
+            android:exported="false"
+            android:parentActivityName=".ui.home.HomeActivity"
+            android:label="@string/title_activity_sura_details"
+            android:theme="@style/Theme.Islamicc_App.NoActionBar" />
+        <activity
             android:name=".ui.home.HomeActivity"
             android:exported="false"
-            android:theme="@style/noActionbar"
-            />
+            android:theme="@style/noActionbar" />
         <activity
             android:name=".ui.spalsh.SplashActivity"
             android:exported="true"
-            android:theme="@style/noActionbar"
-
-            >
-
+            android:theme="@style/noActionbar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
     </application>
 
 </manifest>

@@ -4,4 +4,5 @@
     <color name="colorgolddark">#876433</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="invisible">#00000000</color>
 </resources>
