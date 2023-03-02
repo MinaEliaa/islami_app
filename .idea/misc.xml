@@ -5,16 +5,22 @@
       <map>
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1575" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1575" />
+        <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1325" />
+        <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/drawable/rounded_white_rectangle.xml" value="0.1" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/layout/activity_home.xml" value="0.176" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/layout/activity_sura_details.xml" value="0.2" />
+        <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/layout/content_sura_details.xml" value="0.2" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/layout/fragment_hadeeth.xml" value="0.253125" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/layout/fragment_quran.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/layout/fragment_radio.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/layout/fragment_scrolling.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/layout/fragment_tasbeeh.xml" value="0.2" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/layout/item_chapter_name.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/layout/item_verse.xml" value="0.20260416666666667" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/menu/home_navigation.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/menu/home_navigation_menu.xml" value="0.16197916666666667" />
+        <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Islamicc_App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
     </option>
